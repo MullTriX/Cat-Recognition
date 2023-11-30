@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mati</folder>
+	<filename>cat.138.jpg</filename>
+	<path>C:\Users\mullt\human\mati\cat.138.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>277</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>26</ymin>
+			<xmax>208</xmax>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+</annotation>

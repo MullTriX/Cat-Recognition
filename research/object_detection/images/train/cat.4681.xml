@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rys</folder>
+	<filename>cat.4681.jpg</filename>
+	<path>/home/hyr/Desktop/human/rys/cat.4681.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>499</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>80</ymin>
+			<xmax>372</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>
