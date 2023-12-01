@@ -114,4 +114,4 @@ if __name__ == '__main__':
   tf.compat.v1.app.run()
 
 #command
-# python model_main_tf2.py --pipeline_config_path=ssd_mobilenet_v2_fpnlite_640x640_coco17_tpu-8.config --model_dir=training --alsologtostderr
+# python model_main_tf2.py --pipeline_config_path=ssd_mobilenet_v2_fpnlite_320x320_coco17_tpu-8.config --model_dir=training --alsologtostderr
